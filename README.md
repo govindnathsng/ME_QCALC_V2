@@ -91,7 +91,7 @@ This project is licensed under the Apache License 2.0.
 For questions or feedback, feel free to reach out:
 
     GitHub: govindnathsng
-    Email: govindnathsng@gmail.com
+    Email: govindnathsng[at]gmail[dot]com
 
 yaml
 
