@@ -93,10 +93,4 @@ For questions or feedback, feel free to reach out:
     GitHub: govindnathsng
     Email: govindnathsng[at]gmail[dot]com
 
-yaml
-
-
----
-
-This version includes the Apache 2.0 license note and your updated contact information. Let me know if there are any more changes you'd like!
 
